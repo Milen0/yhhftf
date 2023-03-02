@@ -1,0 +1,10 @@
+I:\244-ИСП\244ИСП\ОАиП\Леонова Милена\Contacts\Contacts\bin\Debug\ContactDB.mdf
+I:\244-ИСП\244ИСП\ОАиП\Леонова Милена\Contacts\Contacts\bin\Debug\ContactDB_log.ldf
+I:\244-ИСП\244ИСП\ОАиП\Леонова Милена\Contacts\Contacts\obj\Debug\Contacts.csproj.AssemblyReference.cache
+I:\244-ИСП\244ИСП\ОАиП\Леонова Милена\Contacts\Contacts\obj\Debug\Contacts.csproj.SuggestedBindingRedirects.cache
+I:\244-ИСП\244ИСП\ОАиП\Леонова Милена\Contacts\Contacts\obj\Debug\Contacts.Form1.resources
+I:\244-ИСП\244ИСП\ОАиП\Леонова Милена\Contacts\Contacts\obj\Debug\Contacts.Properties.Resources.resources
+I:\244-ИСП\244ИСП\ОАиП\Леонова Милена\Contacts\Contacts\obj\Debug\Contacts.csproj.GenerateResource.cache
+I:\244-ИСП\244ИСП\ОАиП\Леонова Милена\Contacts\Contacts\obj\Debug\Contacts.csproj.CoreCompileInputs.cache
+I:\244-ИСП\244ИСП\ОАиП\Леонова Милена\Contacts\Contacts\obj\Debug\Contacts.exe
+I:\244-ИСП\244ИСП\ОАиП\Леонова Милена\Contacts\Contacts\obj\Debug\Contacts.pdb
